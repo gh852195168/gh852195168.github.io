@@ -41,14 +41,14 @@
 }
 .player .right .singer,
 .player .right .album {
-  color:#999999;
+  color:#f7f7f7;
   font-size: 13px;
   margin-top: 15px;
 }
 .player .right .singer span,
 .player .right .album span {
   font-size: 14px;
-  color:#0c73c2;
+  color:#f7f7f7;
 }
 
 .player .right .audio {
@@ -60,4 +60,5 @@
 .player .right .lyric-container .lyric {
   font-size: 12px;
   margin-top: 5px;
+  color: #f7f7f7;
 }

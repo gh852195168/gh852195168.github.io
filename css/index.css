@@ -1,9 +1,14 @@
 a {
   text-decoration: none;
 }
+body {
+  background: url(../img/1.jpeg) top center no-repeat fixed;
+  background-size: 100% ; 
+}
 #player {
   width: 980px;
   margin: 0 auto;
+
 }
 #player ul {
   padding: 0;

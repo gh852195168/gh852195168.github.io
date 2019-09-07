@@ -9,8 +9,9 @@
   color: gray;
   border: 1px solid transparent;
 }
-.result-wrapper .song:nth-child(2n) {
+.result-wrapper .song:nth-child(n) {
   background-color: #f7f7f7;
+  opacity: .8;
 }
 
 .result-wrapper .song:hover{
